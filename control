@@ -1,0 +1,8 @@
+Package: backend-api
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: arm64
+Maintainer: You <you@example.com>
+Description: Test Backend API in Go
+Depends: adduser
