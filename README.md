@@ -11,6 +11,6 @@
 - Redis был запущен в Docker для разнообразия, чтобы немного потренироваться в деплое через Docker. 
 
 # Подтверждение работоспособности
-Все сервисы запущены на VM c соответсвующими IP - [тут](https://share.cleanshot.com/CbKk0rhl)
-
-Проверочные запросы `curl -s 'http://172.16.254.40:5000/user?id=6'` с моей хостовой системы к IP vm-proxy - [тут](https://share.cleanshot.com/Pjsjf9FB)
+Скриншоты:
+- [Все сервисы запущены на VM c соответсвующими IP](https://share.cleanshot.com/CbKk0rhl)
+- [Проверочные запросы `curl -s 'http://172.16.254.40:5000/user?id=6'` с моей хостовой системы к IP vm-proxy](https://share.cleanshot.com/Pjsjf9FB)
